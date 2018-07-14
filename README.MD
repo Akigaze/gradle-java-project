@@ -49,3 +49,8 @@
  ```
 使用`mock`方法创建mock对象
 使用`when`和`thenReturn`控制mock对象在执行指定方法时的返回值
+
+## 清除编译文件
+> gradle clean
+
+清除`bulid`目录下的编译生成的文件，并删除bulid文件夹
